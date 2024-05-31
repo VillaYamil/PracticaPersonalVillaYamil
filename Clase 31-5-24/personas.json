@@ -1,0 +1,570 @@
+{
+    "results": [
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Jaco",
+          "last": "Mets"
+        },
+        "location": {
+          "street": {
+            "number": 4887,
+            "name": "Gualtherus Sylvanusstraat"
+          },
+          "city": "Abbenbroek",
+          "state": "Zuid-Holland",
+          "country": "Netherlands",
+          "postcode": "7301 MS",
+          "coordinates": {
+            "latitude": "35.4252",
+            "longitude": "-74.7587"
+          },
+          "timezone": {
+            "offset": "-8:00",
+            "description": "Pacific Time (US & Canada)"
+          }
+        },
+        "email": "jaco.mets@example.com",
+        "login": {
+          "uuid": "6727a0f5-31ea-4793-9bb6-f34c8ab3edf3",
+          "username": "silvergorilla963",
+          "password": "pumpkin",
+          "salt": "ng4ODMm1",
+          "md5": "a3173fc0489046aa07c71b45f2bcaec4",
+          "sha1": "dda9723e5d81ec92acfcd1ace3cda908e45371b7",
+          "sha256": "0ff8e51196ed2692722770267765320844ad91a177086f9f9e5c62b97d2aaba9"
+        },
+        "dob": {
+          "date": "1957-08-15T06:40:19.131Z",
+          "age": 66
+        },
+        "registered": {
+          "date": "2007-07-29T02:02:45.270Z",
+          "age": 16
+        },
+        "phone": "(056) 7198916",
+        "cell": "(06) 55917945",
+        "id": {
+          "name": "BSN",
+          "value": "63071718"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/77.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+        },
+        "nat": "NL"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Gavin",
+          "last": "Jacobs"
+        },
+        "location": {
+          "street": {
+            "number": 8608,
+            "name": "Westheimer Rd"
+          },
+          "city": "Nowra",
+          "state": "Queensland",
+          "country": "Australia",
+          "postcode": 2320,
+          "coordinates": {
+            "latitude": "34.0517",
+            "longitude": "39.8871"
+          },
+          "timezone": {
+            "offset": "-6:00",
+            "description": "Central Time (US & Canada), Mexico City"
+          }
+        },
+        "email": "gavin.jacobs@example.com",
+        "login": {
+          "uuid": "a55a70b4-389f-42be-a9a5-1c2c1dc5017b",
+          "username": "purplepeacock691",
+          "password": "1204",
+          "salt": "7ob4eFOp",
+          "md5": "d619346f7693033b9f3454704200b8e8",
+          "sha1": "1c468e3aface6bd313ddf7e3c18076e4dafe4f26",
+          "sha256": "45ce297f426cc2a5b42d2ecacc41f10a8cd7e911c7669bd0c7bc17514c3102e6"
+        },
+        "dob": {
+          "date": "1960-12-01T00:04:35.942Z",
+          "age": 63
+        },
+        "registered": {
+          "date": "2013-06-25T17:15:52.599Z",
+          "age": 10
+        },
+        "phone": "01-6956-6642",
+        "cell": "0445-481-919",
+        "id": {
+          "name": "TFN",
+          "value": "289509720"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/21.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+        },
+        "nat": "AU"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Arjun",
+          "last": "Gugale"
+        },
+        "location": {
+          "street": {
+            "number": 3674,
+            "name": "Chaman Ganj"
+          },
+          "city": "Kanpur",
+          "state": "Meghalaya",
+          "country": "India",
+          "postcode": 80331,
+          "coordinates": {
+            "latitude": "-85.5802",
+            "longitude": "-31.3321"
+          },
+          "timezone": {
+            "offset": "+2:00",
+            "description": "Kaliningrad, South Africa"
+          }
+        },
+        "email": "arjun.gugale@example.com",
+        "login": {
+          "uuid": "573df96f-f30e-418a-80ab-a4831ae9baa7",
+          "username": "angrypeacock248",
+          "password": "bordeaux",
+          "salt": "DoEWQ90x",
+          "md5": "15e21d5aa2fadc6a77ea8ea02a9db16a",
+          "sha1": "2c29a61f7c784d47291ff2d20804a14708398588",
+          "sha256": "b4dbd5fd8e984002aa3f55e0669e4efae37e8ca25ebea9ef11666751c1c9c44e"
+        },
+        "dob": {
+          "date": "1979-09-10T04:28:12.064Z",
+          "age": 44
+        },
+        "registered": {
+          "date": "2016-12-22T12:27:02.763Z",
+          "age": 7
+        },
+        "phone": "7026708235",
+        "cell": "8845292573",
+        "id": {
+          "name": "UIDAI",
+          "value": "288097463418"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/84.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+        },
+        "nat": "IN"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Traudl",
+          "last": "Ullmann"
+        },
+        "location": {
+          "street": {
+            "number": 3226,
+            "name": "Im Winkel"
+          },
+          "city": "Bedburg",
+          "state": "Sachsen",
+          "country": "Germany",
+          "postcode": 45428,
+          "coordinates": {
+            "latitude": "-48.4154",
+            "longitude": "-14.1905"
+          },
+          "timezone": {
+            "offset": "+9:30",
+            "description": "Adelaide, Darwin"
+          }
+        },
+        "email": "traudl.ullmann@example.com",
+        "login": {
+          "uuid": "86d2e2e3-df80-4fc3-8385-258527ac737c",
+          "username": "crazygorilla126",
+          "password": "twinkie",
+          "salt": "sI1eztWE",
+          "md5": "b4768cbc691a7a9349807152d3ba4bb2",
+          "sha1": "7fe1074bb1ebdc4fb0b434868a5681a802feb8be",
+          "sha256": "82a2b759ffe0d037b845091a39871262b296549670d2eb1a68ea07d555a261ef"
+        },
+        "dob": {
+          "date": "1994-03-12T02:39:11.192Z",
+          "age": 30
+        },
+        "registered": {
+          "date": "2008-11-14T09:13:58.959Z",
+          "age": 15
+        },
+        "phone": "0079-9588774",
+        "cell": "0176-0468124",
+        "id": {
+          "name": "SVNR",
+          "value": "23 110394 U 899"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/75.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
+        },
+        "nat": "DE"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Callum",
+          "last": "Romero"
+        },
+        "location": {
+          "street": {
+            "number": 5211,
+            "name": "Church Road"
+          },
+          "city": "Plymouth",
+          "state": "North Yorkshire",
+          "country": "United Kingdom",
+          "postcode": "N1E 9LQ",
+          "coordinates": {
+            "latitude": "34.4753",
+            "longitude": "173.1174"
+          },
+          "timezone": {
+            "offset": "+9:30",
+            "description": "Adelaide, Darwin"
+          }
+        },
+        "email": "callum.romero@example.com",
+        "login": {
+          "uuid": "f620c29b-d203-49b0-8459-ad794e48c53e",
+          "username": "lazyfish145",
+          "password": "christi",
+          "salt": "4ZNfYDab",
+          "md5": "c1acb042bc312be8438a89dd022fe61a",
+          "sha1": "7af12ac44a7430382419d05d3ee5e3b95326daf4",
+          "sha256": "4e8fd8ed4c49334a0a6968d08b73bfbb5c33638d458137df1a1e5bd90b827bef"
+        },
+        "dob": {
+          "date": "1993-06-24T17:53:23.244Z",
+          "age": 30
+        },
+        "registered": {
+          "date": "2002-11-24T19:03:25.794Z",
+          "age": 21
+        },
+        "phone": "015396 35358",
+        "cell": "07449 366786",
+        "id": {
+          "name": "NINO",
+          "value": "TC 52 72 34 K"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/39.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+        },
+        "nat": "GB"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Mrs",
+          "first": "Filiz",
+          "last": "Wenig"
+        },
+        "location": {
+          "street": {
+            "number": 9316,
+            "name": "Blumenstraße"
+          },
+          "city": "Gröditz",
+          "state": "Sachsen-Anhalt",
+          "country": "Germany",
+          "postcode": 48190,
+          "coordinates": {
+            "latitude": "55.9946",
+            "longitude": "-155.2391"
+          },
+          "timezone": {
+            "offset": "+3:30",
+            "description": "Tehran"
+          }
+        },
+        "email": "filiz.wenig@example.com",
+        "login": {
+          "uuid": "fc7a472e-3eee-41e5-a1c6-48d164c7e460",
+          "username": "orangegorilla385",
+          "password": "gofish",
+          "salt": "aY9BCFFW",
+          "md5": "6a9ebb947982cc66f9e77fea2d007ca7",
+          "sha1": "6a67070bfe76bed693498258025236dbafb7f358",
+          "sha256": "3d767fccd8442950780f04778840f224bcc80af63dea30d9b002c0c52ea2ebe2"
+        },
+        "dob": {
+          "date": "1983-10-24T23:27:18.476Z",
+          "age": 40
+        },
+        "registered": {
+          "date": "2011-11-17T02:35:46.705Z",
+          "age": 12
+        },
+        "phone": "0238-4760326",
+        "cell": "0179-5247301",
+        "id": {
+          "name": "SVNR",
+          "value": "70 241083 W 706"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/90.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
+        },
+        "nat": "DE"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Ms",
+          "first": "Zoe",
+          "last": "Miller"
+        },
+        "location": {
+          "street": {
+            "number": 7329,
+            "name": "Brock Rd"
+          },
+          "city": "Elgin",
+          "state": "Newfoundland and Labrador",
+          "country": "Canada",
+          "postcode": "A1D 9Z8",
+          "coordinates": {
+            "latitude": "67.1219",
+            "longitude": "-61.2740"
+          },
+          "timezone": {
+            "offset": "-11:00",
+            "description": "Midway Island, Samoa"
+          }
+        },
+        "email": "zoe.miller@example.com",
+        "login": {
+          "uuid": "c1cef8dd-cc7b-4069-9247-4cf762ce82aa",
+          "username": "heavytiger751",
+          "password": "megaman",
+          "salt": "c3YC641O",
+          "md5": "998db466a52077d373af05e686afc40f",
+          "sha1": "3111cd59ceaec489f4d879db9145f07b73de4831",
+          "sha256": "19f3949e09030aabb5d7c558df94a91f5e6cb54c671f71d76d6dc9ed01591b6a"
+        },
+        "dob": {
+          "date": "1989-10-11T19:21:14.383Z",
+          "age": 34
+        },
+        "registered": {
+          "date": "2010-05-31T05:13:27.880Z",
+          "age": 13
+        },
+        "phone": "W59 P68-1093",
+        "cell": "F10 O75-7895",
+        "id": {
+          "name": "SIN",
+          "value": "326601259"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/7.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/7.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
+        },
+        "nat": "CA"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Nina",
+          "last": "Morris"
+        },
+        "location": {
+          "street": {
+            "number": 1705,
+            "name": "Great King Street"
+          },
+          "city": "Blenheim",
+          "state": "Auckland",
+          "country": "New Zealand",
+          "postcode": 76191,
+          "coordinates": {
+            "latitude": "-73.6900",
+            "longitude": "139.9661"
+          },
+          "timezone": {
+            "offset": "-5:00",
+            "description": "Eastern Time (US & Canada), Bogota, Lima"
+          }
+        },
+        "email": "nina.morris@example.com",
+        "login": {
+          "uuid": "da1d7003-840d-4062-a7bb-1b60e37b3bdc",
+          "username": "tinyzebra559",
+          "password": "enter",
+          "salt": "bghLbEN8",
+          "md5": "3bbdf9de7fe0e86a9a5ed4d24fc46bbf",
+          "sha1": "431c61d029f0170b7a51b0b770cef7403f35fd17",
+          "sha256": "a15204d999987c9547a8ede48c461e4cc10c8c6ee3b2725aaacd01ab4ea3f7c2"
+        },
+        "dob": {
+          "date": "1967-11-09T12:12:29.660Z",
+          "age": 56
+        },
+        "registered": {
+          "date": "2017-03-03T08:52:11.394Z",
+          "age": 7
+        },
+        "phone": "(660)-537-4427",
+        "cell": "(207)-168-6662",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/85.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+        },
+        "nat": "NZ"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Dileep",
+          "last": "Hiremath"
+        },
+        "location": {
+          "street": {
+            "number": 4014,
+            "name": "Lindsay St"
+          },
+          "city": "Pimpri-Chinchwad",
+          "state": "Punjab",
+          "country": "India",
+          "postcode": 39982,
+          "coordinates": {
+            "latitude": "53.1077",
+            "longitude": "-42.6269"
+          },
+          "timezone": {
+            "offset": "-1:00",
+            "description": "Azores, Cape Verde Islands"
+          }
+        },
+        "email": "dileep.hiremath@example.com",
+        "login": {
+          "uuid": "4aee2deb-6fdf-4fa3-91a3-61f0326b78cb",
+          "username": "crazycat101",
+          "password": "windsor",
+          "salt": "J8AFG2Zu",
+          "md5": "9b348cda70d3d3cfc890a981ec277392",
+          "sha1": "b853aa97b586b5554b5e71a9f44928ce999dad0e",
+          "sha256": "15638148407cc30dfa786305f75135967ae707f4812073fb67b979d809539980"
+        },
+        "dob": {
+          "date": "1988-07-09T18:02:24.126Z",
+          "age": 35
+        },
+        "registered": {
+          "date": "2014-01-21T14:38:40.548Z",
+          "age": 10
+        },
+        "phone": "7841875005",
+        "cell": "7013286981",
+        "id": {
+          "name": "UIDAI",
+          "value": "808854172016"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/67.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+        },
+        "nat": "IN"
+      },
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Amy",
+          "last": "Mckinney"
+        },
+        "location": {
+          "street": {
+            "number": 4423,
+            "name": "North Street"
+          },
+          "city": "St Albans",
+          "state": "Powys",
+          "country": "United Kingdom",
+          "postcode": "SS53 9BF",
+          "coordinates": {
+            "latitude": "52.3517",
+            "longitude": "65.0153"
+          },
+          "timezone": {
+            "offset": "-7:00",
+            "description": "Mountain Time (US & Canada)"
+          }
+        },
+        "email": "amy.mckinney@example.com",
+        "login": {
+          "uuid": "84b65868-dc8a-4bc1-a573-6ff8dc75406f",
+          "username": "yellowfish742",
+          "password": "jing",
+          "salt": "8SUojFff",
+          "md5": "43b8297ad5cda33304ba2ac63ffa8593",
+          "sha1": "01870aeb5173f8940cdd73545200ddd66d294ab0",
+          "sha256": "62b595322c343b214d31c00167b71df2f36ddfb4886fe22a32f6360cf74babad"
+        },
+        "dob": {
+          "date": "1951-05-12T14:12:35.233Z",
+          "age": 73
+        },
+        "registered": {
+          "date": "2020-07-24T09:12:17.710Z",
+          "age": 3
+        },
+        "phone": "015395 33364",
+        "cell": "07024 155594",
+        "id": {
+          "name": "NINO",
+          "value": "WA 90 53 55 A"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/68.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
+        },
+        "nat": "GB"
+      }
+    ],
+    "info": {
+      "seed": "aa84c7f98b0717e2",
+      "results": 10,
+      "page": 1,
+      "version": "1.4"
+    }
+  }
