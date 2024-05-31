@@ -1,0 +1,18 @@
+
+        #container {
+            display: flex;
+            justify-content: space-between;
+        }
+        #male
+        {
+            width: 45%;
+            border: 1px solid #634dc7;
+            padding: 10px;
+            background-color: #a197ce;
+        } 
+        #female {
+            width: 45%;
+            border: 1px solid #e06bc3;
+            padding: 10px;
+            background-color: #f1b8e3;
+        }
