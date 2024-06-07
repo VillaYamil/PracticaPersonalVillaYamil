@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Personas</title>
+        <style>
+            #body {
+                font-family: Arial, sans-serif;
+            }
+            #container {
+                margin-bottom: 20px;
+            }
+            #male, #female, #imagen, #MayorNombre {
+                margin: 10px 0;
+            }
+            #male h2, #female h2 {
+                margin-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <label for="local">Usar datos locales</label>
+            <input type="checkbox" id="local">
+            <button onclick="MostrarPersonas()">Mostrar Personas</button>
+        </div>
+    
+        <div id="male"></div>
+        <div id="female"></div>
+        <div id="imagen"></div>
+        <div id="MayorNombre"></div>
+
+    <div id="male"></div>
+    <div id="female"></div>
+    <div id="imagen"></div>
+    <div id="MayorNombre"></div>
+    <script src="funciones.js"></script>
+</body>
+</html>

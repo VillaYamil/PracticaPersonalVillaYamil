@@ -1,0 +1,27 @@
+#contenedor{
+border: 1px solid rgba(255, 0, 0, 0.322);
+display: flex;
+}
+#nombres{
+    width: 45%;
+    align-self: last baseline;
+}
+#edades{
+    width: 45%;
+    align-self: last baseline;
+}
+    
+#mayorEdad{
+    width: 45%;
+    align-self: last baseline;
+    
+
+}
+#mayorNombre{
+    width: 45%;
+    align-self: last baseline;
+}
+#imagenes{
+    width: 45%;
+    align-self: last baseline;
+}

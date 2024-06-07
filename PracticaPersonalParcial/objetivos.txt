@@ -1,0 +1,7 @@
+1_Utilizar input 
+2_Utilizar button
+3_Utilizar imagen
+4_Armar el fetch
+5_Guardar los valores en un array
+6_Mostrar los valores del array
+7_Arme un for para cada cosa que queria hacer
