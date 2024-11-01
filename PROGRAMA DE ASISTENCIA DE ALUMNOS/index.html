@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Buscar por DNI</title>
+</head>
+<body>
+    <form action="main.php" method="POST">
+
+    <input type="text" class="texto" name="dni" id="dni" placeholder="ingrese el dni a buscar">
+    <input type="submit"class="boton" value="consultar">
+
+    </form>
+    <div class="aliniamiento">
+    <form action="main.php" method="POST">
+        <input type="submit" value="Profesores" name="Profesores" class="boton">
+    </form>
+    <form action="main.php" method="POST">
+        <input type="submit" value="Alumnos" name="Alumnos" class="boton">
+    </form>
+    </div>
+    <div id="resultado"></div>
+    
+</body>
+</html>
